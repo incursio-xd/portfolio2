@@ -4,7 +4,7 @@ import path from "path";
 
 export default defineConfig({
   plugins: [react()],
-  base: '/portfolio2/', // important for GitHub Pages deployment
+  base: '/portfolio2/', // 👈 must match your repo name exactly
   resolve: {
     alias: {
       src: path.resolve(__dirname, './src'),
@@ -14,8 +14,7 @@ export default defineConfig({
       utils: path.resolve(__dirname, './utils'),
     },
   },
-});
-build: {
+  build: {
     rollupOptions: {
       // force Vite not to inject its default favicon
       input: {
