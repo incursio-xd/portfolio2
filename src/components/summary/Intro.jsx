@@ -86,7 +86,7 @@ const Intro = () => {
                       from-secondary to-tertiary dark:to-white dark:from-secondary text-transparent
                       font-archivo"
       >
-        Aman
+        Mahi
       </motion.h1>
 
       <motion.div

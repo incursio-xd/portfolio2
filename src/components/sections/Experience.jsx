@@ -5,28 +5,14 @@ import ExperienceCard from "./ExperienceCard";
 
 const EXPERIENCES = [
   {
-    title: "Information Technology Intern",
-    company: "Tata Steel",
-    date: "Jun 2024",
-    description: "Built an interactive Tableau dashboard to monitor supply chain movement; performed data cleaning and analysis to identify inefficiencies and trends.",
+    title: "AI & ML Intern",
+    company: "TechSaksham",
+    description: "Developed a disease diagnosis system using Python, Streamlit, and ML classification models",
   },
   {
-    title: "AI/ML Intern",
-    company: "Tech Saksham",
-    date: "Feb 2025",
-    description: "Developed a disease pre-diagnosis system using Python, Streamlit, and ML classification models.",
-  },
-  {
-    title: "Junior Web Dev Intern",
-    company: "MiIT Technologies",
-    date: "April 2025 - June 2025",
-    description: "Worked on front-end and back-end tasks for client projects at the firm; used HTML, CSS, JS and modern web tools.",
-  },
-  {
-    title: "Information Technology Intern",
-    company: "Tata Steel Downstream Products Ltd",
-    date: "July 2025 - Aug 2025",
-    description: "Currently Working",
+    title: "Network Engineering Intern",
+    company: "Cisco Networking Academy",
+    description: "Developed a Python tool to parse router configs, auto-generate network topologies, validate configurations,and simulate real-world scenarios with fault injection.",
   }
 ];
 

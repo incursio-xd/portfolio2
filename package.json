@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://incursio-xd.github.io/portfolio2",
+  "homepage": "https://github.com/Mahiraj22/myportfolio",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",

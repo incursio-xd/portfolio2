@@ -3,13 +3,13 @@ import resume from "src/assets/resume.pdf";
 export function DockPanel() {
   return (
     <Dock>
-      <DockIcon href="https://github.com/incursio-xd">
+      <DockIcon href="https://github.com/Mahiraj22">
         <Icons.gitHub className="h-6 w-6" />
       </DockIcon>
-      <DockIcon href="www.linkedin.com/in/aman-nath-jha-640a40286">
+      <DockIcon href="https://www.linkedin.com/in/mahi-raj-b911b5315/">
         <Icons.linkedin className="h-6 w-6 text-[#0a66c2] fill-current dark:text-white" />
       </DockIcon>
-      <DockIcon href="https://wa.me/8235931113">
+      <DockIcon href="https://wa.me/8340506182">
         <Icons.whatsapp className="h-6 w-6 text-[#57d163] fill-current dark:text-[#414141]" />
       </DockIcon>
       <DockIcon href={resume}>

@@ -32,15 +32,15 @@ const ContactMe = forwardRef((_, ref) => {
               <div className="text-xl font-medium">Contact</div>
               <div className="flex gap-5">
                 <BsFillTelephoneFill className="text-2xl" />
-                <span className="text-sm lg:text-base">+91 - 8235931113</span>
+                <span className="text-sm lg:text-base">+91 - 8340506182</span>
               </div>
               <div className="flex gap-5">
                 <MdEmail className="lg:text-2xl text-sm" />
-                <span className="text-sm">amannathjha14@gmail.com</span>
+                <span className="text-sm">mahisingh16945@gmail.com</span>
               </div>
               <div className="flex gap-5">
                 <MdLocationOn className="text-2xl" />
-                <span>Jharkhand, India</span>
+                <span>Bihar, India</span>
               </div>
             </div>
           </div>

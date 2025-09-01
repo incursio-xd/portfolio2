@@ -45,7 +45,7 @@ const MobileMenu = () => {
                      ${open ? "left-0" : "left-[-100%]"}`}
       >
         <h1 className="cursor-pointer text-4xl font-bold text-secondary p-2">
-          <a href="#summary">Aman</a>
+          <a href="#summary">Mahiya</a>
         </h1>
         <ul>
           {TABS.map((tab) => (
