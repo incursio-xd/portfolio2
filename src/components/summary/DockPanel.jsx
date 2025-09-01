@@ -6,7 +6,7 @@ export function DockPanel() {
       <DockIcon href="https://github.com/incursio-xd">
         <Icons.gitHub className="h-6 w-6" />
       </DockIcon>
-      <DockIcon href="www.linkedin.com/in/aman-nath-jha-640a40286">
+      <DockIcon href="https://www.linkedin.com/in/aman-nath-jha-640a40286/">
         <Icons.linkedin className="h-6 w-6 text-[#0a66c2] fill-current dark:text-white" />
       </DockIcon>
       <DockIcon href="https://wa.me/8235931113">

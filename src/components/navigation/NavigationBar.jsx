@@ -2,8 +2,8 @@ import {motion} from "framer-motion";
 
 import {slideIn} from "lib/constants/motion";
 
-import logo from "src/assets/sign.png";
-import logoWhite from "src/assets/sign.png";
+import logo from "src/assets/sign.svg";
+import logoWhite from "src/assets/sign.svg";
 
 import DarkModeButton from "src/components/DarkModeButton";
 import Menu from "src/components/navigation/Menu";
